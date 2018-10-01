@@ -1,5 +1,7 @@
 package me.christ9979.kafkaconsumer;
 
+import me.christ9979.kafkaconsumer.service.ConsumerService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
